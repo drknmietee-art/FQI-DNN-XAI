@@ -1,0 +1,22 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mlappinstall
+*.mltbx
+
+# Simulink
+*.slxc
+slprj/
+
+# Generated results (uncomment to track)
+# results/*.fig
+# results/*.mat
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Data (auto-downloaded)
+# data/cleveland.csv
